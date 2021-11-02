@@ -1,0 +1,5 @@
+set a 1 2 3
+cartprod a
+set a
+cartprod a
+bye

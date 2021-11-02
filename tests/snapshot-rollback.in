@@ -1,0 +1,8 @@
+set a 2 4 1 9 1
+snapshot
+sort a
+uniq a
+get a
+rollback 1
+get a
+bye

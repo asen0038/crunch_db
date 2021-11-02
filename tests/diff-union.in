@@ -1,0 +1,8 @@
+set a 1 2 4
+set b 2 9 0
+set c
+diff a b c
+inter a b c
+union a b c
+list entries
+bye

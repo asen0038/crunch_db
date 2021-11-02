@@ -1,0 +1,6 @@
+set a
+cartpro a
+set a 1 2 3
+set b
+cartprod a b
+bye

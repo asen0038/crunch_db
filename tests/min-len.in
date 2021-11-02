@@ -1,0 +1,6 @@
+set a 1 0 5 -1
+min a
+max a
+sum a
+len a
+bye

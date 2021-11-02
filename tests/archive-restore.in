@@ -1,0 +1,11 @@
+set a 1 2 3 4
+set b 4 5 6
+snapshot
+archive 1 data.txt
+set c 3 4 5
+snapshot
+rollback 2
+list entries
+restore data.txt
+list entries
+bye

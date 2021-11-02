@@ -1,0 +1,6 @@
+set a 1 2 3
+set a 9 8 5
+get a
+list keys
+list entries
+bye

@@ -1,0 +1,7 @@
+set a 2 2 4 4 8 0
+set b 4 9 0 2
+set c 2 7 7 7
+inter a b c
+cartprod a b c
+list entries
+bye

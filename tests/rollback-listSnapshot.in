@@ -1,0 +1,8 @@
+set a 2 3 5
+snapshot
+set a 8 9 0
+get a
+rollback 1
+get a
+list snpshots
+bye

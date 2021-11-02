@@ -1,0 +1,7 @@
+set a 1 2 3
+set b 4 5 6
+snapshot
+drop 1
+rollback 1
+list entries
+bye
